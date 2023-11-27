@@ -17,16 +17,6 @@
 
   <h2>Getting Started</h2>
 
-  <ol>
-    <li>Clone the repository:</li>
-    <pre><code>git clone https://github.com/your-username/simple-python-blockchain.git</code></pre>
-
-    <li>Navigate to the project directory:</li>
-    <pre><code>cd simple-python-blockchain</code></pre>
-
-    <li>Run the Python script:</li>
-    <pre><code>python simple_blockchain.py</code></pre>
-  </ol>
 
   <h2>Project Structure</h2>
 
@@ -51,10 +41,6 @@
     <li>Push to the branch: <code>git push origin feature-name</code></li>
     <li>Submit a pull request.</li>
   </ol>
-
-  <h2>License</h2>
-
-  <p>This project is licensed under the MIT License - see the <a href="LICENSE">LICENSE</a> file for details.</p>
 
 </body>
 
